@@ -48,11 +48,11 @@ This PowerShell script is designed to **append content** from a source file or d
 
 ## 🚀 What I Learned 
 
-🌱 PowerShell cmdlets
-🌱 Interact with Conditions
-🌱 How to Write PWSH Functions
-🌱 Managing Files & Directories
-🌱 Human Interaction through Prompts
+- 🌱 PowerShell cmdlets
+- 🌱 Interact with Conditions
+- 🌱 How to Write PWSH Functions
+- 🌱 Managing Files & Directories
+- 🌱 Human Interaction through Prompts
 
 
 ## 🧪 The Big Picture 
